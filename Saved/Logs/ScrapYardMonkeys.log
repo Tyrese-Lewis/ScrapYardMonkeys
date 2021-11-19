@@ -29457,3 +29457,208 @@ Make sure 'Controls_Screen_Ui_Bp_C' has been compiled for  Get BackButtonPressed
 [2021.11.19-21.03.11:817][104]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Gamepad_Controls_Title.Gamepad_Controls_Title
 [2021.11.19-21.03.11:817][104]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Audio_Title.Audio_Title
 [2021.11.19-21.03.11:817][104]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Keybaord_Controls_Title.Keybaord_Controls_Title
+[2021.11.19-21.03.46:923][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Yes_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Yes_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:925][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Yes_ButtonCD8B77A243E1C03CB53940A462EED9BC.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Yes_Button.uasset'
+[2021.11.19-21.03.46:926][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Arrow_Left" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Arrow_Left.uasset" SILENT=true
+[2021.11.19-21.03.46:928][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Arrow_Left7ED8FC344366E6C4D937D8A07D9A5838.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Arrow_Left.uasset'
+[2021.11.19-21.03.46:930][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Arrow_Right" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Arrow_Right.uasset" SILENT=true
+[2021.11.19-21.03.46:932][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Arrow_Right8D91E995447ACC2B324BBC93BA6A9CAD.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Arrow_Right.uasset'
+[2021.11.19-21.03.46:933][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Audio_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Audio_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:935][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Audio_Button73A232FE441C2602DB05E688BFF47BF6.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Audio_Button.uasset'
+[2021.11.19-21.03.46:937][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Audio_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Audio_Title.uasset" SILENT=true
+[2021.11.19-21.03.46:938][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Audio_Title012EB52B45BE03CBD6A4699C6D9964A5.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Audio_Title.uasset'
+[2021.11.19-21.03.46:939][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Back_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Back_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:942][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Back_ButtonB8A4690A462A72314ADC3AADAC39FA3C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Back_Button.uasset'
+[2021.11.19-21.03.46:943][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Boarder_2" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Boarder_2.uasset" SILENT=true
+[2021.11.19-21.03.46:947][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Boarder_290E9642249F4BD5F039979A1E35C3FAB.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Boarder_2.uasset'
+[2021.11.19-21.03.46:949][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Boarder_3" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Boarder_3.uasset" SILENT=true
+[2021.11.19-21.03.46:953][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Boarder_32E1A955E44E3232A5CFC848E664AEEEE.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Boarder_3.uasset'
+[2021.11.19-21.03.46:954][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Controls_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Controls_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:956][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Controls_ButtonD28B46F84626A328F04D2CBC9A8A0E9C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Controls_Button.uasset'
+[2021.11.19-21.03.46:958][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Drop_Down_Bar" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Drop_Down_Bar.uasset" SILENT=true
+[2021.11.19-21.03.46:960][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Drop_Down_BarA6C3D1854C3049EF89E3EBBD5322BEA7.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Drop_Down_Bar.uasset'
+[2021.11.19-21.03.46:961][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Drop_Down_Bar_Arrow" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Drop_Down_Bar_Arrow.uasset" SILENT=true
+[2021.11.19-21.03.46:962][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Drop_Down_Bar_Arrow55BE8F2841B76B8F699DB48900E14AE1.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Drop_Down_Bar_Arrow.uasset'
+[2021.11.19-21.03.46:963][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/example_2" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/example_2.uasset" SILENT=true
+[2021.11.19-21.03.46:968][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/example_25B0BE5D14BE130255F150B81B2A81D5C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/example_2.uasset'
+[2021.11.19-21.03.46:969][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Gamepad_Controls_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Gamepad_Controls_Title.uasset" SILENT=true
+[2021.11.19-21.03.46:971][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Gamepad_Controls_Title2CB0CCC240BE14866B7F44BB4CFD12F0.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Gamepad_Controls_Title.uasset'
+[2021.11.19-21.03.46:972][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Graphics_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Graphics_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:974][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Graphics_Button9C823F5B46F3DA077639F18CEA2E1170.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Graphics_Button.uasset'
+[2021.11.19-21.03.46:975][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Graphics_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Graphics_Title.uasset" SILENT=true
+[2021.11.19-21.03.46:977][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Graphics_Title8B0C9E144C1E072B4F3E769709668452.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Graphics_Title.uasset'
+[2021.11.19-21.03.46:978][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Keybaord_Controls_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Keybaord_Controls_Title.uasset" SILENT=true
+[2021.11.19-21.03.46:979][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Keybaord_Controls_Title15DC922D4A6459D15482A7A8C18302C8.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Keybaord_Controls_Title.uasset'
+[2021.11.19-21.03.46:980][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/No_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/No_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:983][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/No_ButtonB0CB95174C39FCA4E81A6DBAE5F6E1FF.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/No_Button.uasset'
+[2021.11.19-21.03.46:984][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Options_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Options_Title.uasset" SILENT=true
+[2021.11.19-21.03.46:985][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Options_TitleFD4856AC414850352E6EE1A3A947638C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Options_Title.uasset'
+[2021.11.19-21.03.46:987][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Paint_Box" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Paint_Box.uasset" SILENT=true
+[2021.11.19-21.03.46:988][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Paint_Box584A470D4EEA38C9AE1E88BA635EC9AD.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Paint_Box.uasset'
+[2021.11.19-21.03.46:989][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Quit_Game_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Quit_Game_Title.uasset" SILENT=true
+[2021.11.19-21.03.46:991][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Quit_Game_TitleE2D4A5674C9021E7ADEEFD822BC309AC.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Quit_Game_Title.uasset'
+[2021.11.19-21.03.46:992][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Save_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Save_Button.uasset" SILENT=true
+[2021.11.19-21.03.46:995][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Save_Button409E3C654C07AA180146AC8987441E35.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Save_Button.uasset'
+[2021.11.19-21.03.46:996][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Slider_Bar" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Slider_Bar.uasset" SILENT=true
+[2021.11.19-21.03.46:998][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Slider_BarD2AA0B344EFB18E1DA359EAC5CB9C28E.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Slider_Bar.uasset'
+[2021.11.19-21.03.46:999][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Slider_Bar_Empty" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Slider_Bar_Empty.uasset" SILENT=true
+[2021.11.19-21.03.47:001][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Slider_Bar_Empty0C862CE14E0EF39AB69F40A3849975A2.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Slider_Bar_Empty.uasset'
+[2021.11.19-21.03.47:002][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Slider_Icon" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Slider_Icon.uasset" SILENT=true
+[2021.11.19-21.03.47:005][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Slider_Icon59C6CA4949E38BF05B4E2F85523AE3D4.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Slider_Icon.uasset'
+[2021.11.19-21.03.47:006][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Small_Paint_Box" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Small_Paint_Box.uasset" SILENT=true
+[2021.11.19-21.03.47:007][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Small_Paint_Box87C7A9984A355EEDB317E6A5B11B0293.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Small_Paint_Box.uasset'
+[2021.11.19-21.03.47:008][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Assets/Thin_Paint_Box" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Assets/Thin_Paint_Box.uasset" SILENT=true
+[2021.11.19-21.03.47:010][659]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Thin_Paint_BoxC86028DB443C2B605ABF98B2934B5D35.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Assets/Thin_Paint_Box.uasset'
+[2021.11.19-21.03.49:154][659]LogSlate: Window 'Submit Files' being destroyed
+[2021.11.19-21.03.49:711][659]LogSourceControl: commit successful: [Design/Joe bf2391a] Assets Ui
+[2021.11.19-21.03.49:766][659]SourceControl: [Design/Joe bf2391a] Assets Ui
+[2021.11.19-21.03.49:766][659]SourceControl:  26 files changed, 0 insertions(+), 0 deletions(-)
+[2021.11.19-21.03.49:774][659]SourceControl: Commited [Design/Joe bf2391a] Assets Ui.
+[2021.11.19-21.03.49:783][659]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Boarder_2.Boarder_2
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Options_Title.Options_Title
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Graphics_Button.Graphics_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Controls_Button.Controls_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Back_Button.Back_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Audio_Button.Audio_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Paint_Box.Paint_Box
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Slider_Bar.Slider_Bar
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Slider_Bar_Empty.Slider_Bar_Empty
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Slider_Icon.Slider_Icon
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Boarder_3.Boarder_3
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/No_Button.No_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Quit_Game_Title.Quit_Game_Title
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Yes_Button.Yes_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Save_Button.Save_Button
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/example_2.example_2
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Small_Paint_Box.Small_Paint_Box
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Thin_Paint_Box.Thin_Paint_Box
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Drop_Down_Bar_Arrow.Drop_Down_Bar_Arrow
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Drop_Down_Bar.Drop_Down_Bar
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Arrow_Left.Arrow_Left
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Arrow_Right.Arrow_Right
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Graphics_Title.Graphics_Title
+[2021.11.19-21.03.49:783][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Gamepad_Controls_Title.Gamepad_Controls_Title
+[2021.11.19-21.03.49:784][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Audio_Title.Audio_Title
+[2021.11.19-21.03.49:784][659]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Assets/Keybaord_Controls_Title.Keybaord_Controls_Title
+[2021.11.19-21.04.23:359][498]LogSlate: Window 'Save Content' being destroyed
+[2021.11.19-21.04.23:460][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.uasset" SILENT=true
+[2021.11.19-21.04.23:524][498]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Graphics_Screen_Ui_BpE6958D404DAC33807985F0B0B6F4CD89.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.uasset'
+[2021.11.19-21.04.23:526][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Options_Screen_Ui_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Options_Screen_Ui_Bp.uasset" SILENT=true
+[2021.11.19-21.04.23:587][498]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Options_Screen_Ui_Bp46B845CA454C3A363AF781A108CD1FB8.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Options_Screen_Ui_Bp.uasset'
+[2021.11.19-21.04.32:825][498]LogSlate: Window 'Submit Files' being destroyed
+[2021.11.19-21.04.33:169][498]LogSourceControl: commit successful: [Design/Joe ceb4414] Options ui update
+[2021.11.19-21.04.33:224][498]SourceControl: [Design/Joe ceb4414] Options ui update
+[2021.11.19-21.04.33:224][498]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2021.11.19-21.04.33:224][498]SourceControl:  rewrite Content/Userinterface/Options_Menu/Audio_Screen_Ui_Bp.uasset (93%)
+[2021.11.19-21.04.33:224][498]SourceControl:  rewrite Content/Userinterface/Options_Menu/Controls_Screen_Ui_Bp.uasset (96%)
+[2021.11.19-21.04.33:224][498]SourceControl:  rewrite Content/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.uasset (90%)
+[2021.11.19-21.04.33:224][498]SourceControl:  rewrite Content/Userinterface/Options_Menu/Options_Screen_Ui_Bp.uasset (86%)
+[2021.11.19-21.04.33:237][498]SourceControl: Commited [Design/Joe ceb4414] Options ui update.
+[2021.11.19-21.04.33:244][498]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.04.33:244][498]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Options_Screen_Ui_Bp.Options_Screen_Ui_Bp
+[2021.11.19-21.04.33:245][498]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.Graphics_Screen_Ui_Bp
+[2021.11.19-21.04.41:765][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Slider_Bar" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset" SILENT=true
+[2021.11.19-21.04.41:795][890]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Slider_Bar909084574439729D0B3FBE9646FC2F87.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset'
+[2021.11.19-21.04.41:797][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Page_Change" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Page_Change.uasset" SILENT=true
+[2021.11.19-21.04.41:816][890]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Page_Change1B7005EB4D4FEE1009EEFCB65BF1A037.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Page_Change.uasset'
+[2021.11.19-21.04.41:817][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.uasset" SILENT=true
+[2021.11.19-21.04.41:827][890]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Drop_Down_Box217E99A04323F7FC22535788E6142F30.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.uasset'
+[2021.11.19-21.04.41:851][890]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Back_and_Save_Buttons813829344050073BCDBD239F6DA12F6A.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Back_and_Save_Buttons.uasset'
+[2021.11.19-21.04.56:891][890]LogSlate: Window 'Submit Files' being destroyed
+[2021.11.19-21.04.57:177][890]LogSourceControl: commit successful: [Design/Joe b9c066a] Options update 2
+[2021.11.19-21.04.57:232][890]SourceControl: [Design/Joe b9c066a] Options update 2
+[2021.11.19-21.04.57:232][890]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2021.11.19-21.04.57:232][890]SourceControl:  rewrite Content/Userinterface/Options_Menu/Ui_Controls/Back_and_Save_Buttons.uasset (94%)
+[2021.11.19-21.04.57:232][890]SourceControl:  rewrite Content/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.uasset (80%)
+[2021.11.19-21.04.57:232][890]SourceControl:  rewrite Content/Userinterface/Options_Menu/Ui_Controls/Page_Change.uasset (94%)
+[2021.11.19-21.04.57:245][890]SourceControl: Commited [Design/Joe b9c066a] Options update 2.
+[2021.11.19-21.04.57:253][890]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.04.57:253][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.Slider_Bar
+[2021.11.19-21.04.57:254][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.Drop_Down_Box
+[2021.11.19-21.04.57:255][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Back_and_Save_Buttons.Back_and_Save_Buttons
+[2021.11.19-21.04.57:255][890]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Page_Change.Page_Change
+[2021.11.19-21.05.11:468][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Slider_Bar" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset" SILENT=true
+[2021.11.19-21.05.11:492][460]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Slider_Bar812AAB6543AC57F3BCC1F994D770A696.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset'
+[2021.11.19-21.05.22:609][460]LogSlate: Window 'Submit Files' being destroyed
+[2021.11.19-21.05.24:031][460]LogSlate: Window 'Message' being destroyed
+[2021.11.19-21.05.24:038][460]Message dialog closed, result: Ok, title: Message, text: Check-in failed as a result of save failure.
+[2021.11.19-21.05.24:045][460]AssetCheck: New page: Asset Save: Slider_Bar
+[2021.11.19-21.05.24:045][460]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.Slider_Bar
+[2021.11.19-21.05.34:866][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Audio_Screen_Ui_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Audio_Screen_Ui_Bp.uasset" SILENT=true
+[2021.11.19-21.05.34:929][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Audio_Screen_Ui_Bp74BC13864D8A94552A929684066E3586.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Audio_Screen_Ui_Bp.uasset'
+[2021.11.19-21.05.34:932][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Assets/Rectangle_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Assets/Rectangle_Button.uasset" SILENT=true
+[2021.11.19-21.05.34:934][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Rectangle_Button402F89ED40DE06EA6908538DDB69518E.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Assets/Rectangle_Button.uasset'
+[2021.11.19-21.05.34:940][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Impacted20Regular-0Wl8o_Font255073914337BABF7F1D6DA1001A0D2F.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Assets/Impacted20Regular-0Wl8o_Font.uasset'
+[2021.11.19-21.05.34:942][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Impacted20Regular-0Wl8oDD26B34A42DF3A8525348583A7B9E5B6.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Assets/Impacted20Regular-0Wl8o.uasset'
+[2021.11.19-21.05.34:944][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/SaveGameOptions" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/SaveGameOptions.uasset" SILENT=true
+[2021.11.19-21.05.34:946][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/SaveGameOptions9584D82A4EF01EB172A56C91A1C34DB6.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/SaveGameOptions.uasset'
+[2021.11.19-21.05.34:948][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Options_Screen_Ui_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Options_Screen_Ui_Bp.uasset" SILENT=true
+[2021.11.19-21.05.35:009][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Options_Screen_Ui_Bp341D503A46AFE8A33F78BF84C0566E7B.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Options_Screen_Ui_Bp.uasset'
+[2021.11.19-21.05.35:010][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Main_Menu_Ui" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Main_Menu_Ui.uasset" SILENT=true
+[2021.11.19-21.05.35:075][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Main_Menu_Ui041E15E04D6F74872E0527BE5A09FB08.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Main_Menu_Ui.uasset'
+[2021.11.19-21.05.35:082][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/Quit_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Quit_Button.uasset" SILENT=true
+[2021.11.19-21.05.35:086][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Quit_Button43C87EBF4CA6EA8C9FD8BEA2CB79520B.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Quit_Button.uasset'
+[2021.11.19-21.05.35:092][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/Options_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Options_Button.uasset" SILENT=true
+[2021.11.19-21.05.35:096][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Options_Button5061534A4DC0B429048DD5BE4E740CD5.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Options_Button.uasset'
+[2021.11.19-21.05.35:100][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/New_Game_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/New_Game_Button.uasset" SILENT=true
+[2021.11.19-21.05.35:104][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/New_Game_Button12BDF3A640FA6E9E269FFDB36CFF327C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/New_Game_Button.uasset'
+[2021.11.19-21.05.35:107][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/Main_Menu_Title" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Main_Menu_Title.uasset" SILENT=true
+[2021.11.19-21.05.35:109][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Main_Menu_TitleF7769FEA4006F31A28DAD99FFDD100CE.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Main_Menu_Title.uasset'
+[2021.11.19-21.05.35:114][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/Load_Button" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Load_Button.uasset" SILENT=true
+[2021.11.19-21.05.35:118][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Load_Button669EE4664B0A4C8C24CC71AD72A8FF35.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Load_Button.uasset'
+[2021.11.19-21.05.35:123][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/Boarder_1" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Boarder_1.uasset" SILENT=true
+[2021.11.19-21.05.35:129][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Boarder_14D1E9E1F42A4716BCB139AB86B8F1963.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Boarder_1.uasset'
+[2021.11.19-21.05.35:130][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/SaveGame1_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/SaveGame1_Bp.uasset" SILENT=true
+[2021.11.19-21.05.35:132][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/SaveGame1_Bp4C6E6A784954578E4EA72A882D377B29.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/SaveGame1_Bp.uasset'
+[2021.11.19-21.05.35:133][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Controls_Screen_Ui_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Controls_Screen_Ui_Bp.uasset" SILENT=true
+[2021.11.19-21.05.35:145][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Controls_Screen_Ui_BpBC4DB1034A0616EF30385BA6CFA3DCEA.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Controls_Screen_Ui_Bp.uasset'
+[2021.11.19-21.05.35:146][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Slider_Bar" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset" SILENT=true
+[2021.11.19-21.05.35:173][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Slider_BarB292577649DED8A4434670B8E2C31A55.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset'
+[2021.11.19-21.05.35:174][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.uasset" SILENT=true
+[2021.11.19-21.05.35:184][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Drop_Down_Box005030184C0EDB3D7C3DDB8E4AB4944F.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.uasset'
+[2021.11.19-21.05.35:190][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Assets/Boarder_shape" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Assets/Boarder_shape.uasset" SILENT=true
+[2021.11.19-21.05.35:193][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Boarder_shape4C8AA2CD403BB70978398C90A138A667.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Assets/Boarder_shape.uasset'
+[2021.11.19-21.05.35:194][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.uasset" SILENT=true
+[2021.11.19-21.05.35:263][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Graphics_Screen_Ui_BpBB5B84F64A662FBBF1A30DAFDB042D78.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.uasset'
+[2021.11.19-21.05.35:268][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Main_Menu/Assets/Tick" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Tick.uasset" SILENT=true
+[2021.11.19-21.05.35:271][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/TickF214F4E24450FBE3FE0182AF224A936C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Main_Menu/Assets/Tick.uasset'
+[2021.11.19-21.05.35:272][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Quit_Menu/Quit_Screen_Ui_Bp1" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Quit_Menu/Quit_Screen_Ui_Bp1.uasset" SILENT=true
+[2021.11.19-21.05.35:312][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Quit_Screen_Ui_Bp1DD6F13834BF488F1E919F68827EB9FEA.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Quit_Menu/Quit_Screen_Ui_Bp1.uasset'
+[2021.11.19-21.05.35:338][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Back_and_Save_ButtonsF1E2D8B649FF3477579B0A84099C4B3C.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Back_and_Save_Buttons.uasset'
+[2021.11.19-21.05.35:340][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Userinterface/Options_Menu/Ui_Controls/Page_Change" FILE="D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Page_Change.uasset" SILENT=true
+[2021.11.19-21.05.35:366][808]LogSavePackage: Moving 'D:/ScrapYardMonkeys/Saved/Page_Change2DC7218C4303E8DD1FBA9CAA061F44FD.tmp' to 'D:/ScrapYardMonkeys/Content/Userinterface/Options_Menu/Ui_Controls/Page_Change.uasset'
+[2021.11.19-21.05.43:834][808]LogSlate: Window 'Submit Files' being destroyed
+[2021.11.19-21.05.44:475][808]SourceControl: Error: warning: could not open directory 'Content/BluePrints/BP_Ai/Bt_Tasks/': No such file or directory
+[2021.11.19-21.05.45:033][808]LogSourceControl: commit successful: [Design/Joe a708c9f] Update Ui
+[2021.11.19-21.05.45:352][808]SourceControl: [Design/Joe a708c9f] Update Ui
+[2021.11.19-21.05.45:352][808]SourceControl:  24 files changed, 0 insertions(+), 0 deletions(-)
+[2021.11.19-21.05.45:352][808]SourceControl:  rewrite Content/Userinterface/Main_Menu/Main_Menu_Ui.uasset (88%)
+[2021.11.19-21.05.45:352][808]SourceControl:  rewrite Content/Userinterface/Options_Menu/Assets/Example.uasset (94%)
+[2021.11.19-21.05.45:352][808]SourceControl:  rewrite Content/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.uasset (65%)
+[2021.11.19-21.05.45:352][808]SourceControl:  rewrite Content/Userinterface/Quit_Menu/Quit_Screen_Ui_Bp1.uasset (93%)
+[2021.11.19-21.05.45:362][808]SourceControl: Commited [Design/Joe a708c9f] Update Ui.
+[2021.11.19-21.05.45:371][808]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.05.45:371][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Audio_Screen_Ui_Bp.Audio_Screen_Ui_Bp
+[2021.11.19-21.05.45:373][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Options_Menu/Assets/Rectangle_Button.Rectangle_Button
+[2021.11.19-21.05.45:373][808]LogContentValidation: Display: Validating Font /Game/Userinterface/Options_Menu/Assets/Impacted20Regular-0Wl8o_Font.Impacted20Regular-0Wl8o_Font
+[2021.11.19-21.05.45:373][808]LogContentValidation: Display: Validating FontFace /Game/Userinterface/Options_Menu/Assets/Impacted20Regular-0Wl8o.Impacted20Regular-0Wl8o
+[2021.11.19-21.05.45:373][808]LogContentValidation: Display: Validating Blueprint /Game/Userinterface/Options_Menu/SaveGameOptions.SaveGameOptions
+[2021.11.19-21.05.45:373][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Options_Screen_Ui_Bp.Options_Screen_Ui_Bp
+[2021.11.19-21.05.45:373][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Main_Menu/Main_Menu_Ui.Main_Menu_Ui
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/Quit_Button.Quit_Button
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/Options_Button.Options_Button
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/New_Game_Button.New_Game_Button
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/Main_Menu_Title.Main_Menu_Title
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/Load_Button.Load_Button
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/Boarder_1.Boarder_1
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating Blueprint /Game/Userinterface/Main_Menu/SaveGame1_Bp.SaveGame1_Bp
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Controls_Screen_Ui_Bp.Controls_Screen_Ui_Bp
+[2021.11.19-21.05.45:374][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Slider_Bar.Slider_Bar
+[2021.11.19-21.05.45:375][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Drop_Down_Box.Drop_Down_Box
+[2021.11.19-21.05.45:375][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Options_Menu/Assets/Boarder_shape.Boarder_shape
+[2021.11.19-21.05.45:375][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Graphics_Screen_Ui_Bp.Graphics_Screen_Ui_Bp
+[2021.11.19-21.05.45:376][808]LogContentValidation: Display: Validating Texture2D /Game/Userinterface/Main_Menu/Assets/Tick.Tick
+[2021.11.19-21.05.45:376][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Quit_Menu/Quit_Screen_Ui_Bp1.Quit_Screen_Ui_Bp1
+[2021.11.19-21.05.45:377][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Back_and_Save_Buttons.Back_and_Save_Buttons
+[2021.11.19-21.05.45:377][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/Userinterface/Options_Menu/Ui_Controls/Page_Change.Page_Change
